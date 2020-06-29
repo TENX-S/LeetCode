@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/q21.cpp" "/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug/CMakeFiles/MergeTwoSortedLists.dir/q21.cpp.o"
+  "/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/q21.cpp" "/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug/CMakeFiles/MergeTwoSortedLists.dir/q21.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

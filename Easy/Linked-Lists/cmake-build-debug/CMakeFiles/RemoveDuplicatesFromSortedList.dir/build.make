@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList
+CMAKE_SOURCE_DIR = /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/RemoveDuplicatesFromSortedList.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/RemoveDuplicatesFromSortedList.dir/flags.make
 
 CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.o: CMakeFiles/RemoveDuplicatesFromSortedList.dir/flags.make
 CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.o: ../q83.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.o -c /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/q83.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.o -c /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/q83.cpp
 
 CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/q83.cpp > CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/q83.cpp > CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.i
 
 CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/q83.cpp -o CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/q83.cpp -o CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.s
 
 # Object files for target RemoveDuplicatesFromSortedList
 RemoveDuplicatesFromSortedList_OBJECTS = \
@@ -80,7 +80,7 @@ RemoveDuplicatesFromSortedList_EXTERNAL_OBJECTS =
 RemoveDuplicatesFromSortedList: CMakeFiles/RemoveDuplicatesFromSortedList.dir/q83.cpp.o
 RemoveDuplicatesFromSortedList: CMakeFiles/RemoveDuplicatesFromSortedList.dir/build.make
 RemoveDuplicatesFromSortedList: CMakeFiles/RemoveDuplicatesFromSortedList.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable RemoveDuplicatesFromSortedList"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable RemoveDuplicatesFromSortedList"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/RemoveDuplicatesFromSortedList.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/RemoveDuplicatesFromSortedList.dir/clean:
 .PHONY : CMakeFiles/RemoveDuplicatesFromSortedList.dir/clean
 
 CMakeFiles/RemoveDuplicatesFromSortedList.dir/depend:
-	cd /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/LinkedList/cmake-build-debug/CMakeFiles/RemoveDuplicatesFromSortedList.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug /Users/tenx/Documents/AnyCode/Dev-Workspace/LeetCode/C++/LeetCode/Easy/Linked-Lists/cmake-build-debug/CMakeFiles/RemoveDuplicatesFromSortedList.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/RemoveDuplicatesFromSortedList.dir/depend
 
